@@ -1,2 +1,3 @@
 # gofile-io-api
-Learning Python
+Learning Python.
+I am just learning python and this is my first hobby project. :)
