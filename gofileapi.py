@@ -62,7 +62,7 @@ def upload():
        file.close()
        
     return urls
-def writelog():
+def write_url():
     try:
         log=open('allurls.txt','a')
     except  FileNotFoundError:
@@ -79,4 +79,4 @@ def writelog():
 get_server()
 print(upload_sever_link)
 print(upload())
-writelog()
+write_url()
