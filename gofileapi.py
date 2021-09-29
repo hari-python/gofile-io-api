@@ -1,5 +1,4 @@
 import requests
-import json
 allurls={}
 get_server_link = 'https://api.gofile.io/getServer'
 upload_sever_link ='https://{0}.gofile.io/uploadFile'
